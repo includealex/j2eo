@@ -3,7 +3,7 @@ package eotree
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 import org.polystat.j2eo.eotree.EOComment
-import org.polystat.j2eo.eotree.data.EOExceptionData
+import org.polystat.j2eo.eotree.EOExceptionData
 
 /*
   EO exceptions data tests
